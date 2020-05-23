@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{EACC6020-2388-4548-9763-26A68FB7D86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFramework", "StudentManager\DbFramework\DbFramework.csproj", "{68656211-F41C-484D-8586-BC286502FF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACC6020-2388-4548-9763-26A68FB7D86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC6020-2388-4548-9763-26A68FB7D86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC6020-2388-4548-9763-26A68FB7D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC6020-2388-4548-9763-26A68FB7D86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68656211-F41C-484D-8586-BC286502FF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68656211-F41C-484D-8586-BC286502FF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68656211-F41C-484D-8586-BC286502FF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68656211-F41C-484D-8586-BC286502FF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75AB17D-3BC6-4547-8658-AF1AB2808134}
+	EndGlobalSection
+EndGlobal
