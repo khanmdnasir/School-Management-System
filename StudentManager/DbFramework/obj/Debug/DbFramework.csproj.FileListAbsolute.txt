@@ -1,0 +1,24 @@
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\bin\Debug\DbFramework.dll
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\bin\Debug\DbFramework.pdb
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\obj\Debug\DbFramework.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\obj\Debug\DbFramework.dll
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\obj\Debug\DbFramework.pdb
+C:\Users\nk99t\source\repos\StudentManager\DbFramework\obj\Debug\DbFramework.csprojAssemblyReference.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.dll
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.pdb
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csprojAssemblyReference.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.dll
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.pdb
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.dll
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.pdb
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csprojAssemblyReference.cache
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.dll
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.pdb
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.dll
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\bin\Debug\DbFramework.pdb
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csprojAssemblyReference.cache
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.csproj.CoreCompileInputs.cache
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.dll
+H:\C# projects\StudentManager\StudentManager\StudentManager\DbFramework\obj\Debug\DbFramework.pdb

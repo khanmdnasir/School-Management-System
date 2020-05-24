@@ -1,0 +1,75 @@
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Templates.TemplateForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.LoginForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.DashboardForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\DbFramework.dll
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\DbFramework.pdb
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe.manifest
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.application
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe.manifest
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.application
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.ManageBranchForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.BranchInfoForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.EmployeeInfoForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.ManageEmployeeForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.StudentForm.resources
+C:\Users\nk99t\source\repos\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Profile.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Profile.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.StudentForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.BranchInfoForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.ManageBranchForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.DashboardForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.EmployeeInfoForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.ManageEmployeeForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.LoginForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Templates.TemplateForm.resources
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.manifest
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.application
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\DbFramework.dll
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\bin\Debug\DbFramework.pdb
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.exe.manifest
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.application
+C:\Users\nk99t\OneDrive\Desktop\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.config
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe.manifest
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.application
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.exe
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\StudentManager.pdb
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\DbFramework.dll
+H:\C# projects\StudentManager\StudentManager\StudentManager\bin\Debug\DbFramework.pdb
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Profile.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.StudentForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.BranchInfoForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Branches.ManageBranchForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.DashboardForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.EmployeeInfoForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Employee.ManageEmployeeForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.LoginForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.UI_Layer.Templates.TemplateForm.resources
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.exe.manifest
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.application
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.csproj.CopyComplete
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.exe
+H:\C# projects\StudentManager\StudentManager\StudentManager\obj\Debug\StudentManager.pdb
