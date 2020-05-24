@@ -175,6 +175,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UI Layer\ManageReport.resx">
+      <DependentUpon>ManageReport.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UI Layer\Profile.resx">
       <DependentUpon>Profile.cs</DependentUpon>
     </EmbeddedResource>
